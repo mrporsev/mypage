@@ -1,0 +1,5 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "C:\\Users\\porse\\AppData\\Local\\Microsoft\\WindowsApps\\python3.9.exe",
+    "python.languageServer": "Pylance"
+}
